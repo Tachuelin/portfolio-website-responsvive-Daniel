@@ -100,11 +100,11 @@ let swiper = new Swiper('.portfolio__container', {
         prevE1: '.swiper-button-prev',
     },
     pagination: {
-        el: '.swiper-pagination'
+        el: '.swiper-pagination',
     },
     mousewheel: true,
     keyboard: true,
-})
+});
 
 /*==================== TESTIMONIAL ====================*/
 
