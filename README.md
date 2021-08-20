@@ -9,7 +9,7 @@ _Puedes descargar el repositorio y consultar el Código de las siguientes manera
 
 - Dando clic en **Code** en el repositorio y después **Download ZIP**..
 - Haciendo un **Git clone** del repositorio directamente en tu computadora
-- Ingresando al siguiente link para ver el preview [Portafolio Profesional](https://colab.research.google.com/drive/1lexfeyDqg7DZj2CV5-mo5bB8yu4agsZ8?usp=sharing)
+- Ingresando al siguiente link para ver el preview [Portafolio Profesional](https://portafolio-profesional.azurewebsites.net/)
 
 ### Preview del proyecto 📋
 
