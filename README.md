@@ -13,8 +13,13 @@ _Puedes descargar el repositorio y consultar el Código de las siguientes manera
 
 ### Preview del proyecto 📋
 
+<img src="assets/img/previewUno.png" alt="preview" width="680px" align-items = center/>
 
+<img src="assets/img/previewDos.png" alt="preview" width="680px" align-items = center/>
 
+<img src="assets/img/previewTres.png" alt="preview" width="680px" align-items = center/>
+
+<img src="assets/img/previewCuatro.png" alt="preview" width="680px" align-items = center/>
 
 ## Autor ✒️
 
