@@ -9,7 +9,7 @@ _Puedes descargar el repositorio y consultar el Código de las siguientes manera
 
 - Dando clic en **Code** en el repositorio y después **Download ZIP**..
 - Haciendo un **Git clone** del repositorio directamente en tu computadora
-- Ingresando al siguiente link para ver el preview [Portafolio Profesional](https://portafolio-profesional.azurewebsites.net/)
+- Ingresando al siguiente link para ver el preview [Portafolio Profesional](https://objective-lumiere-926f7f.netlify.app/)
 
 ### Preview del proyecto 📋
 
